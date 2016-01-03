@@ -1,0 +1,23 @@
+{
+  "name": "onenotemodule",
+  "version": "0.1.0",
+  "description": "Note to OneNote module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaffeineFusion/onenotemodule.git"
+  },
+  "keywords": [
+    "node.js",
+    "onenote"
+  ],
+  "author": "CaffeineFusion <owensmith@live.com.au> (https://au.linkedin.com/in/oclsmith)",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/CaffeineFusion/onenotemodule/issues"
+  },
+  "homepage": "https://github.com/CaffeineFusion/onenotemodule#readme"
+}
