@@ -4,7 +4,7 @@
   "description": "Note to OneNote module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha && node test/note-tests.js && node test/connect-client-tests.js"
   },
   "dependencies": {
     "request": "2.34.0",
